@@ -1,0 +1,9 @@
+[name]:Cannis familiaris
+[_class]:Mammal
+	[diet]:Omnivorous
+	[schedule]:Diurnal
+	[name]:Eleutherodactylus portoricensis
+[_class]:Amphibian
+	[diet]:Omnivorous
+	[schedule]:Nocturnal
+	
